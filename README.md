@@ -82,9 +82,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maker3391&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maker3391&show_icons=true&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maker3391&layout=compact&theme=tokyonight)
+<br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maker3391&layout=compact&theme=tokyonight" />
 
 </div>
 
