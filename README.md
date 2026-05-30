@@ -1,8 +1,6 @@
 # 안녕하세요, Backend Developer 최병현입니다.
 
-Spring Boot 기반 백엔드 개발을 중심으로 OAuth2, JWT, Redis를 활용한 인증/인가 구조와  
-PostgreSQL 기반 데이터 정합성, 트랜잭션 처리, 추천 시스템 설계에 관심을 가지고 있습니다.  
-사이드 프로젝트를 실제 서비스로 배포하며 운영 경험을 쌓고 있습니다.
+**안정적인 데이터 처리와 유지보수 가능한 구조**를 지향하는 백엔드 개발자입니다.
 
 ---
 
@@ -24,12 +22,12 @@ PostgreSQL 기반 데이터 정합성, 트랜잭션 처리, 추천 시스템 설
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### Infra & Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
@@ -49,8 +47,8 @@ AI 기반 음식 추천 서비스
 - Rule Engine 기반 음식 추천 시스템 설계
 - PostgreSQL TEXT[] 태그 기반 추천 스코어링 구현
 - OAuth2 + JWT + Redis 기반 인증 구조 구현
-- 음식 재추천(excludedFoodIds) 및 Kakao Map 기반 장소 추천 기능 구현
-- Spring Boot + Next.js Full Stack 개발 및 실제 서비스 배포 / 운영
+- 음식 재추천(excludedFoodIds) 처리 및 Kakao Map 기반 장소 추천 기능 구현
+- Spring Boot + Next.js 기반 Full Stack 개발 및 실제 서비스 배포/운영
 
 🌐 Live: [golladrim.com](https://golladrim.com)  
 📦 Repository: [Golladrim](https://github.com/maker3391/Golladrim)
@@ -64,7 +62,7 @@ AI 기반 음식 추천 서비스
 - JWT + Redis 기반 인증 구조 및 OAuth2 로그인 구현
 - 자연어 Intent 분석 기반 LLM 여행 일정 생성 구현
 - Kakao Local API 연동 맛집 / 숙소 / 명소 추천 기능 구현
-- 추천 결과 캐싱을 통한 외부 API 응답 처리 최적화
+- 추천 결과 캐싱을 통한 외부 API 응답 최적화
 
 🌐 Live: [TPlanner](https://trip-planner-eight-zeta.vercel.app)  
 📦 Repository: [TPlanner](https://github.com/maker3391/trip-planner)
@@ -78,7 +76,7 @@ AI 기반 음식 추천 서비스
 - Purchase Order → Inbound → Stock 흐름 구현
 - 입고 확정 시 재고 증가 및 발주 상태 전환을 단일 트랜잭션으로 처리
 - Inventory Snapshot / StockTx Ledger 분리 구조 설계
-- 현재 재고 조회와 재고 이력 추적을 분리하여 데이터 정합성 관리
+- 현재 재고 조회와 재고 이력 추적을 분리하여 데이터 정합성 확보
 
 🌐 Live: [coreerp.kr](https://coreerp.kr)  
 📦 Repository: [CoreERP](https://github.com/maker3391/CoreERP)
@@ -91,7 +89,7 @@ AI 기반 음식 추천 서비스
 
 - 거래소별 실시간 시세 수집 및 김치프리미엄 계산 / 표시
 - SWR 기반 캐싱을 통한 시세 데이터 조회 최적화
-- Cloudflare Worker를 활용한 외부 API 응답 처리 최적화
+- Cloudflare Worker를 활용한 외부 API 응답 최적화
 
 🌐 Live: [kimpview.com](https://kimpview.com)  
 📦 Repository: [KIMPVIEW](https://github.com/maker3391/KIMPVIEW)
