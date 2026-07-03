@@ -1,8 +1,4 @@
-# 안녕하세요, Backend Developer 최병현입니다.
-
-**안정적인 데이터 처리와 유지보수 가능한 구조**를 지향하는 백엔드 개발자입니다.
-
----
+<div align="center">
 
 ## 🛠 Tech Stack
 
@@ -11,10 +7,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -36,83 +29,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-## 🚀 Main Projects
-
-### 🍽️ Golladrim
-
-AI 기반 음식 추천 서비스
-
-- Rule Engine 기반 음식 추천 시스템 설계
-- PostgreSQL TEXT[] 태그 기반 추천 스코어링 구현
-- OAuth2 + JWT + Redis 기반 인증 구조 구현
-- 음식 재추천(excludedFoodIds) 처리 및 Kakao Map 기반 장소 추천 기능 구현
-- Spring Boot + Next.js 기반 Full Stack 개발 및 실제 서비스 배포/운영
-
-🌐 Live: [golladrim.com](https://golladrim.com)  
-📦 Repository: [Golladrim](https://github.com/maker3391/Golladrim)
-
----
-
-### ✈️ TPlanner (Team Project)
-
-여행 계획 및 추천 서비스
-
-- JWT + Redis 기반 인증 구조 및 OAuth2 로그인 구현
-- 자연어 Intent 분석 기반 LLM 여행 일정 생성 구현
-- Kakao Local API 연동 맛집 / 숙소 / 명소 추천 기능 구현
-- 추천 결과 캐싱을 통한 외부 API 응답 최적화
-
-🌐 Live: [TPlanner](https://trip-planner-eight-zeta.vercel.app)  
-📦 Repository: [TPlanner](https://github.com/maker3391/trip-planner)
-
----
-
-### 🏢 CoreERP
-
-입출고 및 재고 관리 ERP 프로젝트
-
-- Purchase Order → Inbound → Stock 흐름 구현
-- 입고 확정 시 재고 증가 및 발주 상태 전환을 단일 트랜잭션으로 처리
-- Inventory Snapshot / StockTx Ledger 분리 구조 설계
-- 현재 재고 조회와 재고 이력 추적을 분리하여 데이터 정합성 확보
-
-🌐 Live: [coreerp.kr](https://coreerp.kr)  
-📦 Repository: [CoreERP](https://github.com/maker3391/CoreERP)
-
----
-
-### 📈 KIMPVIEW
-
-실시간 김치프리미엄 모니터링 서비스
-
-- 거래소별 실시간 시세 수집 및 김치프리미엄 계산 / 표시
-- SWR 기반 캐싱을 통한 시세 데이터 조회 최적화
-- Cloudflare Worker를 활용한 외부 API 응답 최적화
-
-🌐 Live: [kimpview.com](https://kimpview.com)  
-📦 Repository: [KIMPVIEW](https://github.com/maker3391/KIMPVIEW)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maker3391&show_icons=true&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maker3391&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
 ## 📫 Contact
-
-<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-maker3391-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maker3391)
 [![Email](https://img.shields.io/badge/Email-cjstn3391@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cjstn3391@gmail.com)
